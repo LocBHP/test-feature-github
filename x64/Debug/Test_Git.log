@@ -1,0 +1,3 @@
+﻿  Test_Git.cpp
+F:\FPT_C\LESSION\9_Git\Test_Git\Test_Git\Test_Git.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Test_Git.vcxproj -> F:\FPT_C\LESSION\9_Git\Test_Git\x64\Debug\Test_Git.exe
