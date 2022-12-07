@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Test_Git.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Typedef_Struct.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
