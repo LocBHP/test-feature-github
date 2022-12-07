@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("Hello!!!");
+	printf("Hello!!!, conflick on GitHub");
 	printf("Edit on GitHub!!!");
 	return 0;
 }
